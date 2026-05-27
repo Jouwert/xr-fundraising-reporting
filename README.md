@@ -105,6 +105,13 @@ See [`docs/public-private-boundaries.md`](docs/public-private-boundaries.md).
 ## Current status
 This repository documents the XR fundraising reporting workflow with a first set of sanitized technical artifacts derived from the real project materials and live deployment shape.
 
+## Impact
+- Before this workflow, the monthly fundraising report took roughly 2–3 hours to assemble manually. The dashboard replaced that with continuous access to the same reporting layer.
+- Reporting is now available not only monthly but also weekly, which makes changes in fundraising performance visible much earlier.
+- Fundraising staff, finance volunteers, and board members can inspect the same dashboard, reducing manual reporting handovers and improving shared understanding.
+- The reporting layer exposes more detail in a more user-friendly way, while preserving privacy through bounded donor identity handling.
+- This reduces manual reporting effort, lowers reconciliation risk, and makes it easier to act on trends before they become larger problems.
+
 ## Next likely additions
 Optional next additions:
 - a simple reporting-flow diagram;
