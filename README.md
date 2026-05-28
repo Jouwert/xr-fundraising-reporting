@@ -111,8 +111,3 @@ This repository documents the XR fundraising reporting workflow with a first set
 - The reporting layer exposes more detail in a more user-friendly way, while preserving privacy through bounded donor identity handling.
 - This reduces manual reporting effort, lowers reconciliation risk, and makes it easier to act on trends before they become larger problems.
 
-## Next likely additions
-Optional next additions:
-- a simple reporting-flow diagram;
-- one public-facing example of a reconciliation check;
-- one short ETL recovery note if it can be written cleanly without support-log detail.
